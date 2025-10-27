@@ -7,9 +7,9 @@
 
 ## 💡 About Me
 
-I am a dedicated and detail-oriented **Software Developer** with hands-on experience in Zoho Creator, Deluge scripting, and web technologies.  
-My goal is to build efficient and user-friendly digital solutions that simplify operations and enhance user engagement.  
-I am particularly interested in web development and IoT-based innovation.
+I am a dedicated tech enthusiast with hands-on experience in Zoho Creator, Deluge scripting, and web technologies. 
+My goal is to build efficient, user-friendly digital solutions that streamline operations and enhance user engagement. 
+I am particularly interested in web development and IoT-driven innovation.
 
 ---
 
