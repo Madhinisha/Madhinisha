@@ -62,9 +62,7 @@ An IoT-based safety project designed to:
 ## 🌱 Currently Exploring
 
 - Advanced Deluge scripting for business automation  
-- Front-end development with ReactJS  
-- Integration of web apps with IoT and third-party APIs  
-
+  
 ---
 
 ## 🎯 Career Objective
