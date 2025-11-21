@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Madhinisha L
+# 👋 Hi, I'm Madhinisha L 
 
 🎓 **Bachelor of Computer Science** | SDNB Vaishnav College for Women (2022–2025)  
 📍 Kovilambakkam, Chennai | ✉️ [madhinishal@gmail.com](mailto:madhinishal@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/madhinisha02)
