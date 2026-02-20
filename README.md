@@ -7,9 +7,9 @@
 
 ## 💡 About Me
 
-I am a passionate technology enthusiast with hands-on experience in Zoho Creator and Deluge scripting, specializing in building efficient, scalable, and user-friendly digital solutions. My focus is on streamlining business operations, automating workflows, and enhancing user engagement through smart, practical systems.
+I am a software developer with hands-on experience in Zoho Creator and Deluge scripting, specializing in building efficient, scalable, and user-friendly digital solutions. My work focuses on streamlining business operations, automating workflows, and enhancing user engagement through practical applications.
 
-With a strong foundation in low-code development and process optimization, I specialize in converting complex business logic into efficient, scalable, and maintainable application solutions that deliver measurable impact.
+With a strong foundation in low-code development and process optimization, I specialize in converting complex business logic into efficient, maintainable software solutions.
 
 ---
 
